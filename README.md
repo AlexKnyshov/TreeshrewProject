@@ -77,6 +77,7 @@ This step runs several assessments using IQ-TREE and several custom scripts. See
 
 ### Run SVDQuartets
 
-TBA
+This step runs a coalescent analysis using SVDQuartets. See **SVDQuartets** folder
+* run_svdq.sh - slurm script to run
 
 
